@@ -2,6 +2,20 @@
 
 Repositorio personal que alberga los trabajos prácticos y ejercicios realizados en la asignatura **Programación I** de la carrera de Ingeniería Informática.
 
+## Descripción
+
+Este repositorio contiene una colección de ejercicios y trabajos prácticos desarrollados en Python, abarcando desde conceptos básicos de programación hasta estructuras de datos más complejas. Los trabajos prácticos están organizados por número y versión, facilitando su identificación y seguimiento.
+
+## Requisitos
+
+- Python 3.x
+- PyCharm o cualquier otro editor de texto compatible con Python
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
+
+
 ## Estructura del Repositorio
 
 Este repositorio contiene los siguientes directorios y archivos:
@@ -20,16 +34,3 @@ Este repositorio contiene los siguientes directorios y archivos:
 - `segundo-parcial/`: Ejercicios correspondientes al segundo parcial.
 - `random/`: Scripts y pruebas diversas.
 - `.idea/`: Configuración del entorno de desarrollo (PyCharm).
-
-## Descripción
-
-Este repositorio contiene una colección de ejercicios y trabajos prácticos desarrollados en Python, abarcando desde conceptos básicos de programación hasta estructuras de datos más complejas. Los trabajos prácticos están organizados por número y versión, facilitando su identificación y seguimiento.
-
-## Requisitos
-
-- Python 3.x
-- PyCharm o cualquier otro editor de texto compatible con Python
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
