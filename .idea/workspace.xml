@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16f27c1d-0d5e-4f36-a5e8-2c4def424f6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prog-I-victoria-rivaspa13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/ejercicios_práctica_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-5FEBRERO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-ADN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-AUTOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-BIBLIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-BIBLIOTECA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-PELICULAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-RESTAURANTE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-STOCK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final-etl-adn.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FINAL/final.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/def austral " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/def f (x).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/functionsd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/listoflists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/1.5_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/ab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/ayb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/booleans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/cadena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/checkPassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/check_tildes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/comparacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/compararStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/condicionales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/dias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/dias_a_horas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/edad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/ej1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/ej3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/entradas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/esMayorDeEdad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/has_even_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/has_even_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/hello_world.py " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/input_and_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/invertFirst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/invertString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/invertirFirst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/nombre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/parciales_redictado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/practica_recuperatorio_primerparcial_redictado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/primerparcial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/recu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/semi_suma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/slice_inverso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/tps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primer-parcial/unir_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/clase_uno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/clasediego.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/longest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/clase_29.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/clase_de_consulta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/diccionario = {}" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/diccionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/ejercicios_adicionales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/ejercicios_estilo_parcial_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/parcial_5nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/parciales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/practica_segundo_parcial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/práctica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/recuperatorioII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo-parcial/segundoparcial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-1-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-1-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-1-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-1-victoria-rivaspa13-1-main/exercise_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-1-victoria-rivaspa13-1-main/math_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/maps_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/set_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/test_loop_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-10-victoria-rivaspa13-main/test_loop_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/ada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/earth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-2-victoria-rivaspa13-1-main/tp2_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/slice_advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/slice_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/tp3_in_string_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/tp3_slice_advanced_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-3-victoria-rivaspa13-1-main/tp3_slice_simple_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/tp4_leap_year_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-4-v2-victoria-rivaspa13-main/tp4_line_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/loops_and_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/loops_and_print_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-7-victoria-rivaspa13-1-main/loops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/sets_categories_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/sets_test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/tp8_sets_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/tp8_tuples_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-8-victoria-rivaspa13-1-main/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/.github/workflows/classroom.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/dicts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-9-victoria-rivaspa13-1-main/tp9_dicts_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ybfFGDynnbxhO2wqWnuvUEPO1N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/victoriarivaspatrese/PycharmProjects/prog-I-victoria-rivaspa13/clase",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clase" />
+      <recent name="$PROJECT_DIR$/segundo-parcial" />
+      <recent name="$PROJECT_DIR$/primer-parcial" />
+      <recent name="$PROJECT_DIR$/random" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="prog-I-victoria-rivaspa13" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f27c1d-0d5e-4f36-a5e8-2c4def424f6b" name="Changes" comment="" />
+      <created>1750108088081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750108088081</updated>
+      <workItem from="1750108101316" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

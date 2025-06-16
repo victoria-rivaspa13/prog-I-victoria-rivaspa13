@@ -1,0 +1,6 @@
+diccionario = {}
+diccionario ['color'] = 'green'
+diccionario ['puntos'] = 5
+print(diccionario)
+
+

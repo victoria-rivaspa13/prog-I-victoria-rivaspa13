@@ -1,0 +1,8 @@
+def austral (profesor):
+	last_name = “”
+	if profesor:
+		last_name = "last_name + "Longo"
+		print (f"{profesor} - {last_name}")
+	if True:
+		last_name *= "Gadea"
+		print 
